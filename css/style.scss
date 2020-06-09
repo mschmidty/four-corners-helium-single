@@ -82,3 +82,14 @@ address {
         text-decoration: none;
     }
 }
+
+/* -- Screens smaller than 1024px wide -- */
+@media only screen and (max-width: 1024px) {
+    main {
+        flex-flow: row wrap;
+    }
+    
+    #message, #watch {
+        width: 100%;
+    }
+}
