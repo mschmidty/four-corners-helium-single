@@ -7,7 +7,10 @@ body {
   font-size: 1em;
   font-family: neue-haas-grotesk-display, sans-serif;
   font-style: normal;
-  padding: 2.5em 5em;
+  padding: 5em 6em;
+  background: linear-gradient(rgba(255, 255, 255, 0), white 800px, white), url("../img/john-middelkoop-unsplash.jpg");
+  background-position: top;
+  background-size: cover;
 }
 
 #logo {
@@ -63,6 +66,8 @@ address p span {
   font-weight: 600;
 }
 address a {
+  color: #3372ff;
+  font-weight: 300;
   text-decoration: none;
 }
 
