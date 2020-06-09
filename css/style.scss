@@ -1,0 +1,74 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    color: #343434;
+    font-size: 1em;
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-style: normal;
+    padding: 2.5em 5em;
+}
+
+#logo {
+    width: 200px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    margin: 2em 0;
+}
+
+#message {
+    width: 50%;
+
+    h1 {
+        font-size: 4.5em;
+        font-weight: 700;
+        margin-bottom: 0;
+    }
+
+    h2 {
+        font-size: 2.5em;
+        font-weight: 300;
+        margin-top: 0.25em;
+    }
+}
+
+#watch {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+
+    img {
+        width: 200px;
+    }
+}
+
+footer {
+    font-size: 1.5em;
+    text-align: center;
+    margin: 5em 0;
+
+    p {
+        font-weight: 300;
+        margin-bottom: 1.75em;
+    }
+}
+
+address {
+    font-style: normal;
+
+    p {
+        line-height: 1.75;
+
+        span {
+            font-weight: 600;
+        }
+    }
+
+    a {
+        text-decoration: none;
+    }
+}
