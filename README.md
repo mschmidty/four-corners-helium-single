@@ -1,1 +1,3 @@
-# four-corners-helium-single
+# Four Corners Helium Single Page Starter
+
+Built by Andrew Coad. 
