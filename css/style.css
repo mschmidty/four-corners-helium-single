@@ -8,7 +8,7 @@ body {
   font-family: neue-haas-grotesk-display, sans-serif;
   font-style: normal;
   padding: 5em 6em;
-  background: linear-gradient(rgba(255, 255, 255, 0), white 800px, white), url("../img/john-middelkoop-unsplash.jpg");
+  background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5) 20%, white 65%, rgba(255, 255, 255, 0.8)), url("../img/john-middelkoop-unsplash.jpg");
   background-position: top;
   background-size: cover;
 }
